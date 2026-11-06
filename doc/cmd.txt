@@ -1,2 +1,6 @@
 Permet de lancer les tests que sur un seul exercice :
 	npm run test -- exercices/axe-fondamentaux/reactiver-generateur/
+
+
+Permet de voir le hash d'un commit 
+	git log
