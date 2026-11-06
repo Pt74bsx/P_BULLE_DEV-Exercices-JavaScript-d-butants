@@ -15,8 +15,9 @@ Projet d'apprentissage JavaScript organisé par axes.
 
 ```text
 ├── doc/
-│   └── CDC/
-│       └── CdC P_Bulle_Dev-Exercices-JS.docx
+│   ├── CDC/
+│   │   └── CdC P_Bulle_Dev-Exercices-JS.docx
+│   └── AugustoRomain-PBulle-JDT.gitj
 ├── js-nexus/
 │   ├── exercices/
 │   │   ├── axe-fondamentaux/
