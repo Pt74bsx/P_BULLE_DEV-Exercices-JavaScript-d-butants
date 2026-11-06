@@ -2,9 +2,13 @@
 
 /**
  * Convertit une valeur en nombre.
+ *
+ * @param {string} value Valeur du code
+ *
+ * @returns {number} Valeur convertie en nombre
  */
 export function convertCode(value) {
-  // TODO
+  return Number(value);
 }
 
 /**
