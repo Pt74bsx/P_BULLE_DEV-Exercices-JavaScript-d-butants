@@ -14,12 +14,21 @@ Projet d'apprentissage JavaScript organisé par axes.
 ## Organisation
 
 ```text
-exercices/
-├── axe-fondamentaux/
-├── axe-controle/
-├── axe-fonctions/
-├── axe-donnees/
-└── axe-async/
+├── doc/
+│   └── CDC/
+│       └── CdC P_Bulle_Dev-Exercices-JS.docx
+├── js-nexus/
+│   ├── exercices/
+│   │   ├── axe-fondamentaux/
+│   │   ├── axe-controle/
+│   │   ├── axe-fonctions/
+│   │   ├── axe-donnees/
+│   │   └── axe-async/
+│   ├── jest.config.cjs
+│   ├── package.json
+│   └── package-lock.json
+├── .gitignore
+└── README.md
 ```
 
 Chaque axe contient plusieurs missions/exercices.
