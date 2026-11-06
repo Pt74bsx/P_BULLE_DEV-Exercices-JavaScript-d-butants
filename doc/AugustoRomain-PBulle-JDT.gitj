@@ -2,5 +2,76 @@
   "projectName": "P_BULL_DEV-Exercices-JavaScripts",
   "me": "pt74bsx",
   "journalStartDate": "2026-11-06T11:20:00.000Z",
-  "exceptions": []
+  "exceptions": [
+    {
+      "id": "efc5a2ff-b042-4b10-b3b8-8139d7cfe747",
+      "type": "commitless",
+      "name": "meet(projet): analyse du projet ",
+      "description": "Le chef de projet nous a expliqué tout le projet, les règles, etc.",
+      "date": "2026-11-06T11:20:00.000Z",
+      "duration": 60,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "af95585b-64c4-4926-984d-d8b095a2aab2",
+      "type": "commitless",
+      "name": "chore(feat): Initialisation du repos",
+      "description": "J'ai installer et préparer tout le repos. J'ai installer les modules, le cahier des charges, un journal de travail, un README, je me suis inscrit sur le marketplace, etc.",
+      "date": "2026-11-06T12:20:00.000Z",
+      "duration": 45,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "97c21490-9a58-4553-989c-9f7413f18ecd",
+      "type": "commitless",
+      "name": "feat(axe-fondamentaux): Réalisation de l'exercice \"reactiver-generateur\"",
+      "description": "Réalisation du première exercice durant l'exercice le chef de projet nous a interrompu pour nous expliqué certaines choses.",
+      "date": "2026-11-06T13:15:00.000Z",
+      "duration": 40,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "2bd4cefc-78c1-421a-ae8f-2242e6fd4e5d",
+      "type": "commitless",
+      "name": "feat(axe-async): Réalisation de l'exercice \"signaux-temporels\"",
+      "description": "Réalisation du deuxième exercice ",
+      "date": "2026-11-06T14:15:00.000Z",
+      "duration": 30,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "b552467d-bbd9-4793-80e9-36622acfc405",
+      "type": "commitless",
+      "name": "feat(axe-fondamentaux): Réalisation de l'étape 1 de l'exercice \"codes-ac…",
+      "description": "J'ai commencé le troisième exercice mais au vu du temps j'ai du m'arrêter à la première étape de l'exercice",
+      "date": "2026-11-06T14:50:00.000Z",
+      "duration": 10,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "aaa5545e-58da-48c7-a3d2-c16c9d3eed23",
+      "type": "commitless",
+      "name": "meet(code): Apprentissage de la syntaxe",
+      "description": "Le chef de projet nous a montrer la bonne syntaxe pour intégrer des paramètre et du texte sur la même lignes ",
+      "date": "2026-11-06T15:00:00.000Z",
+      "duration": 10,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "f883457c-6adf-444a-b227-77a6b746817c",
+      "type": "commitless",
+      "name": "doc(JDT): Réalisation du journal de travail",
+      "description": "J'ai inscrit toutes les tâches que j'ai effectué durant la séquence du 06.11.2026",
+      "date": "2026-11-06T15:10:00.000Z",
+      "duration": 25,
+      "status": "DONE",
+      "author": "pt74bsx"
+    }
+  ]
 }
