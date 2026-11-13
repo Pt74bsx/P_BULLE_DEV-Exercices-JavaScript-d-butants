@@ -142,6 +142,16 @@
       "duration": 10,
       "status": "DONE",
       "author": "pt74bsx"
+    },
+    {
+      "id": "b0f4e1ef-a513-4e2b-a95f-7f0d7c55d560",
+      "type": "commitless",
+      "name": "feat(code): Réalisation des deux premières todo de l'exercice promesses",
+      "description": "",
+      "date": "2026-11-13T15:15:00.000Z",
+      "duration": 15,
+      "status": "DONE",
+      "author": "pt74bsx"
     }
   ]
 }
