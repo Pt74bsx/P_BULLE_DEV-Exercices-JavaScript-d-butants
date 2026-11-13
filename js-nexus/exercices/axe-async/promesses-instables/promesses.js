@@ -2,16 +2,31 @@
 
 /**
  * Crée une promesse immédiatement résolue avec un message.
+ *
+ * @param {string} message Message
+ *
+ * @returns {*} Promise résolue avec message
  */
 export function createSignal(message) {
-  // TODO
+  return new Promise((successCallback) => {
+    successCallback(message);
+  });
 }
 
 /**
  * Retourne une valeur après un délai.
+ *
+ * @param {string} value Valeur
+ * @param {number} delay Delay en millisecondes
+ *
+ * @returns {*} Promise résolue avec delay
  */
 export function delayValue(value, delay) {
-  // TODO
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(value);
+    }, delay);
+  });
 }
 
 /**
