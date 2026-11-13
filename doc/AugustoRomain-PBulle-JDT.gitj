@@ -72,6 +72,76 @@
       "duration": 25,
       "status": "DONE",
       "author": "pt74bsx"
+    },
+    {
+      "id": "679b1449-92b3-4973-b159-e4918391bc6c",
+      "type": "commitless",
+      "name": "meet(test): Installation d'une tâche pour suivre les actions réseau ",
+      "description": "Installation d'une tâche qui permet de vérifier les evennement réseau ",
+      "date": "2026-11-13T11:20:00.000Z",
+      "duration": 25,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "27621ef1-882d-4b3b-8b31-5ea588ae705e",
+      "type": "commitless",
+      "name": "refactor(code): Amélioration de la syntaxe d'une ligne de code dans l'exercice reactiver-generateur ",
+      "description": "Une ligne marchait mais syntaxiquement n'était pas parfait ",
+      "date": "2026-11-13T11:45:00.000Z",
+      "duration": 5,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "bc26d91f-494a-4ee7-b196-86efc5206f12",
+      "type": "commitless",
+      "name": "feat(code): Réalisation de l'exercice codes-acces dans les fondamentaux ",
+      "description": "Exercice réaliser sans trop de difficulté",
+      "date": "2026-11-13T11:50:00.000Z",
+      "duration": 30,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "e91f40ed-9034-4d76-b618-4188ecfd977a",
+      "type": "commitless",
+      "name": "feat(code): Réalisation de l'exercice diagnostic-noyau dans les fondamentaux ",
+      "description": "",
+      "date": "2026-11-13T12:30:00.000Z",
+      "duration": 35,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "1151fc31-d0b5-4eaf-a324-80812b5be8f0",
+      "type": "commitless",
+      "name": "feat(code): Réalisation de l'exercice portes-citadelle dans les fondamentaux ",
+      "description": "Exercice super facile ",
+      "date": "2026-11-13T13:05:00.000Z",
+      "duration": 20,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "243137f3-29a7-4b66-a83f-c1d82708fe50",
+      "type": "commitless",
+      "name": "feat(code): Réalisation de l'exercice patrouilles dans les axe-controle",
+      "description": "Exercice assez dur, il ma permit de bien m'améliorer sur les boucles",
+      "date": "2026-11-13T13:25:00.000Z",
+      "duration": 55,
+      "status": "DONE",
+      "author": "pt74bsx"
+    },
+    {
+      "id": "0d564eb4-d35e-48e3-b6d2-28f9896297b5",
+      "type": "commitless",
+      "name": "doc(jdt): Réalisation du journal de travail",
+      "description": "Inscription de toutes les tâches que j'ai effectuées durant la séquence du 13.11.2026",
+      "date": "2026-11-13T14:35:00.000Z",
+      "duration": 10,
+      "status": "DONE",
+      "author": "pt74bsx"
     }
   ]
 }
