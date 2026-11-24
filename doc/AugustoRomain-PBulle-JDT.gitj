@@ -196,6 +196,16 @@
       "description": "Cet exercice était beaucoup plus dure que tout les autres. Il m'a permit de bien m'améliorer et principalement à utiliser les Promesses et les .catch()",
       "duration": 45,
       "status": "Done"
+    },
+    {
+      "id": "9d5f8ef7-de00-4ea9-a8cd-f5f98fcb3189",
+      "type": "commitless",
+      "author": "pt74bsx",
+      "date": "2026-11-24T09:25:00.000Z",
+      "name": "feat(code): Réalisation de l'exercice anemometre dans l'axe fondamentaux",
+      "description": "Cet exercice était facile, rien de nouveau sauf les constants qui sont très simple",
+      "duration": 25,
+      "status": "Done"
     }
   ]
 }
