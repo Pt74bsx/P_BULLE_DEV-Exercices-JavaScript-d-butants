@@ -206,6 +206,16 @@
       "description": "Cet exercice était facile, rien de nouveau sauf les constants qui sont très simple",
       "duration": 25,
       "status": "Done"
+    },
+    {
+      "id": "cc047fc1-d00e-4b5e-908e-77c656fdcd9e",
+      "type": "commitless",
+      "author": "pt74bsx",
+      "date": "2026-11-24T09:50:00.000Z",
+      "name": "doc(jdt): Réalisation du journal de travail",
+      "description": "Au fur et à mesure, j'ai réalisé mon journal de travail",
+      "duration": 10,
+      "status": "Done"
     }
   ]
 }
