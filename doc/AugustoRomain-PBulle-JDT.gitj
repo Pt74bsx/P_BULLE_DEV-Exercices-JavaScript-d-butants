@@ -2,6 +2,40 @@
   "projectName": "P_BULL_DEV-Exercices-JavaScripts",
   "me": "pt74bsx",
   "journalStartDate": "2026-11-06T11:20:00.000Z",
+  "columns": [
+    {
+      "label": "Date",
+      "source": "date",
+      "format": "date",
+      "field": "date"
+    },
+    {
+      "label": "Tâche",
+      "source": "name",
+      "field": "name"
+    },
+    {
+      "label": "Description",
+      "source": "description",
+      "field": "description"
+    },
+    {
+      "label": "Durée",
+      "source": "duration",
+      "format": "duration",
+      "field": "duration"
+    },
+    {
+      "label": "Statut",
+      "source": "status",
+      "format": "badge",
+      "field": "status"
+    },
+    {
+      "label": "Auteur",
+      "source": "author"
+    }
+  ],
   "exceptions": [
     {
       "id": "efc5a2ff-b042-4b10-b3b8-8139d7cfe747",
@@ -152,6 +186,16 @@
       "duration": 15,
       "status": "DONE",
       "author": "pt74bsx"
+    },
+    {
+      "id": "0f55ed1e-0d4e-49b6-b995-6c0ce4bf300a",
+      "type": "commitless",
+      "author": "pt74bsx",
+      "date": "2026-11-24T08:05:00.000Z",
+      "name": "feat(code): Réalisation de l'exercice promesses de l'axe async",
+      "description": "Cet exercice était beaucoup plus dure que tout les autres. Il m'a permit de bien m'améliorer et principalement à utiliser les Promesses et les .catch()",
+      "duration": 45,
+      "status": "Done"
     }
   ]
 }
